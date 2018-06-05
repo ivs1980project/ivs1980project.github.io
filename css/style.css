@@ -103,6 +103,11 @@ body {
   color: #B6B6B4;
 }
 
+.tr-ivs-header{
+  color:#66a3ff;
+  text-align: center;
+}
+
 .float-right {
   float: right;
   margin: 10px 10px 10px 10px
