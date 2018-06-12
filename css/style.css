@@ -82,11 +82,6 @@ body {
   display: none
 }
 
-body {
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
 .navbar {
   margin-bottom: 20px;
 }
@@ -107,7 +102,7 @@ body {
 .img-circle{
   width: 214px;
   height: 164px;
-
+}
 
 .float-right {
   float: right;
@@ -153,10 +148,9 @@ body {
     display: block;
 }
 
-.table-striped .tr-ivs-header{
+.tr-ivs-header{
   color:#66a3ff;
   text-align: center;
-
 }
 
 .table-striped tr:hover {
